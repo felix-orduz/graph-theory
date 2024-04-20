@@ -75,3 +75,4 @@ G.add_edge("C","D")
 G.show()
 ```
 
+![Ejemplo](https://i.imgur.com/h524bsA.png)

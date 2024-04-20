@@ -27,7 +27,10 @@ G.show()
 ```
 
 
-Crear un Grafo nombrando uno por uno los elementos
+## Crear un Grafo Nombrando Cada Vértice Individualmente
+
+Para un control más detallado sobre la adición de vértices y aristas, puede optar por nombrar cada elemento uno por uno, como se muestra a continuación:
+
 ```python
 # Importar la librería de grafos
 G = Graph()
@@ -47,9 +50,9 @@ G.add_edge(0,2)
 G.show()
 ```
 
-Ejemplo crear el grafo de los puentes de Königsberg
-para que el grafo pueda aceptar multiples aristas en el mismo par de vertices hay que activar la opcion multi edges 
-```G = Graph(multiedges=True)```
+## Ejemplo: Crear el Grafo de los Puentes de Königsberg
+
+Para ilustrar cómo manejar múltiples aristas entre un par de vértices, utilizaremos el famoso problema de los puentes de Königsberg. Este ejemplo requiere activar la opción `multiedges` para permitir más de una arista entre dos vértices:
 ```python
 # Importar la librería de grafos
 G = Graph(multiedges=True)

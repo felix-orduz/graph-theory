@@ -9,6 +9,9 @@ Acceda a [https://sagecell.sagemath.org/](https://sagecell.sagemath.org/) y en e
 
 La siguiente secuencia de comandos ilustra cómo crear un grafo básico con cuatro vértices y varias aristas. Este ejemplo es ideal para quienes se inician en la manipulación de grafos con SageMathCell:
 
+
+![Ejemplo]([url_de_la_imagen](https://i.imgur.com/RRNdu8s.png))
+
 ```python
 # Importar la librería de grafos
 G = Graph()
@@ -22,6 +25,7 @@ G.add_edges([(0, 1), (1, 2), (2, 3), (3, 0), (0, 2)])
 # Dibujar el grafo
 G.show()
 ```
+
 
 Crear un Grafo nombrando uno por uno los elementos
 ```python
@@ -67,3 +71,4 @@ G.add_edge("C","D")
 # Dibujar el grafo
 G.show()
 ```
+

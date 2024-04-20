@@ -2,6 +2,13 @@
 
 Este documento proporciona una guía paso a paso sobre cómo crear y manipular grafos utilizando SageMathCell, un recurso en línea para la computación matemática, especialmente útil para estudiantes y profesionales en el campo de la Teoría de Grafos. A continuación, se detallan los métodos para construir grafos simples, grafos con vértices nombrados individualmente y grafos con múltiples aristas entre el mismo par de vértices, como en el famoso problema de los puentes de Königsberg.
 
+
+## Creación de un Grafo Simple
+
+Acceda a [https://sagecell.sagemath.org/](https://sagecell.sagemath.org/) y en el cuadro de texto que indica **"Type some Sage code below and press Evaluate."**, puede introducir el código que se muestra a continuación.
+
+La siguiente secuencia de comandos ilustra cómo crear un grafo básico con cuatro vértices y varias aristas. Este ejemplo es ideal para quienes se inician en la manipulación de grafos con SageMathCell:
+
 ```python
 # Importar la librería de grafos
 G = Graph()
@@ -60,4 +67,3 @@ G.add_edge("C","D")
 # Dibujar el grafo
 G.show()
 ```
-

@@ -1,6 +1,6 @@
 # Taller Grafos
 
-### Ejecicio Redes Sociales
+### Redes Sociales
 Crea un grafo que represente una red de amistades con 6 personas para alguno de los integrantes. Asegúrese de que cada persona esté conectada al menos otra personas. Representa visualmente la red social.
 
 **Ejemplo:**

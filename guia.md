@@ -25,6 +25,8 @@ G.add_edges([(0, 1), (1, 2), (2, 3), (3, 0), (0, 2)])
 # Dibujar el grafo
 G.show()
 ```
+[Ver Ejemplo](https://sagecell.sagemath.org/?z=eJxljEEKwkAMRfeF3uFDN1MYpNq1C0EonkFEUieOI5WWTK1ncuEpejEbiiC6epD89zLsbl0rPQkaQhNqYRlfBMfwQuc2pkmFNSqh7mLyNEmTDBsv7CdhGJ_ShxNHUDOvp_GCnDsOPD_MvrBYWqwsysOPTRJiT_8uO6-iUTO3MKortaEsLQplofdPdBvq-3WK8lcsXtqHyd93XEA4&lang=sage&interacts=eJyLjgUAARUAuQ==)
+
 
 
 ## Crear un Grafo Nombrando Cada Vértice Individualmente
@@ -49,6 +51,7 @@ G.add_edge(0,2)
 # Dibujar el grafo
 G.show()
 ```
+[Ver Ejemplo](https://sagecell.sagemath.org/?z=eJxljUEKgzAQRfeCdxhwk0AoGtddFAriKcrYTGOKRZmktlfqoqfwYhW7qKbbx__vZVDfhp4DMnQInWuYeHojGALLeOl9mlSwh4pxaIVMkzTJ4GCZ7HwYpxcHdyYP2H3X83iHxpxG4kBPkcsIFDHQMSjluoDsfMB_PxlLIlc_3QIKpbdAq3ILSpXLyKGX4NE19-scpFXIt_1DyA_TPVgI&lang=sage&interacts=eJyLjgUAARUAuQ==)
 
 ## Ejemplo: Crear el Grafo de los Puentes de Königsberg
 
@@ -74,5 +77,6 @@ G.add_edge("C","D")
 # Dibujar el grafo
 G.show()
 ```
-
 ![Ejemplo](https://i.imgur.com/h524bsA.png)
+
+[Ver Ejemplo ](https://sagecell.sagemath.org/?z=eJyNzk0KgzAQBeC94B0G3SiU3sCFP1C6776MzTSmKMok2l6pi57CizVBSsV00e3HvHkvhmM39GyQoUVoVc3E8wtBEEjGa6_D4AAZHBiHJunG1igSknR24pHSMAiDGHLJJG1-mp9s1IU0YLuEbXaPQpwnYkOPJMqjdEuFT6VPlaNvE7LSBv0eN8217NZvFyws5lt0l-XfWP366WH5QTe4UvV4s4NpNVQ3_T1J37IDbTk=&lang=sage&interacts=eJyLjgUAARUAuQ==)

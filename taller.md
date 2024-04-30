@@ -53,3 +53,29 @@ Crea un grafo donde cada nodo representa una de las localidades mencionadas.
 Etiqueta cada nodo con el nombre de la localidad y el número de tiendas (ejemplo: "Chapinero (5)").
 Conecta los nodos con aristas si las localidades son geográficamente adyacentes. Por ejemplo, Chapinero es adyacente a Teusaquillo, Suba es adyacente a Usaquén, etc.
 Visualiza el grafo para mostrar estas relaciones y etiquetas.
+
+## Unidades de Medida en Física
+**Contexto:**
+En física, diferentes cantidades físicas como fuerza, masa y trabajo se miden en distintas unidades. Este ejercicio te ayudará a visualizar las relaciones entre estas unidades de medida y cómo se convierten unas en otras. Utilizando SageMathCell, crearás un grafo donde cada nodo es una unidad de medida y cada arista muestra la relación de conversión o dependencia entre las unidades.
+
+**Unidades y sus relaciones:**
+
+- Masa se mide en kilogramos (kg).
+- Longitud se mide en metros (m).
+- Tiempo se mide en segundos (s).
+- Fuerza se mide en newtons (N). Un newton es equivalente a kg⋅m/s
+2
+kg⋅m/s 
+2
+ .
+Energía y trabajo se miden en julios (J), donde un julio es 
+N
+⋅
+m
+N⋅m.
+Instrucciones:
+
+Crea un grafo donde cada nodo representa una unidad de medida (kg, m, s, N, J).
+Conecta las unidades con aristas que representen sus relaciones, por ejemplo, cómo se calcula un newton a partir de kilogramos, metros y segundos.
+Etiqueta cada arista con la relación de conversión apropiada.
+Visualiza el grafo para mostrar estas relaciones.

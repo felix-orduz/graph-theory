@@ -63,19 +63,18 @@ En física, diferentes cantidades físicas como fuerza, masa y trabajo se miden 
 - Masa se mide en kilogramos (kg).
 - Longitud se mide en metros (m).
 - Tiempo se mide en segundos (s).
-- Fuerza se mide en newtons (N). Un newton es equivalente a kg⋅m/s
-2
-kg⋅m/s 
-2
- .
-Energía y trabajo se miden en julios (J), donde un julio es 
-N
-⋅
-m
-N⋅m.
-Instrucciones:
+- Fuerza se mide en newtons (N). Un newton es equivalente a $kg⋅m/s^2$
+- Energía y trabajo se miden en julios (J), donde un julio es N⋅m
+
+**Instrucciones:**
 
 Crea un grafo donde cada nodo representa una unidad de medida (kg, m, s, N, J).
 Conecta las unidades con aristas que representen sus relaciones, por ejemplo, cómo se calcula un newton a partir de kilogramos, metros y segundos.
 Etiqueta cada arista con la relación de conversión apropiada.
 Visualiza el grafo para mostrar estas relaciones.
+
+
+### Organigrama Empresarial
+**Descripción:**
+Diseña un organigrama para una pequeña empresa que incluya un CEO, dos gerentes y cuatro empleados (dos por cada gerente). Visualiza la estructura jerárquica en SageMathCell.
+

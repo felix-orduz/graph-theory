@@ -24,7 +24,7 @@ Instrucciones:
 - Etiqueta cada arista con el nombre de la frontera común, si es necesario.
 - Visualiza el grafo para mostrar estas relaciones.
 
-*Preguntas de análisis:*
+**Preguntas de análisis:**
 
 ¿Qué país tiene el mayor número de conexiones directas con otros países de la OTAN en este grafo? ¿Qué implica esto sobre su posición geopolítica dentro de Europa?
 ¿Cómo podrían afectar estas fronteras compartidas las políticas de defensa y las relaciones diplomáticas entre estos países?

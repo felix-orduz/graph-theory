@@ -1,6 +1,6 @@
 # Taller Grafos
 
-### Redes Sociales
+## Redes Sociales
 Crea un grafo que represente una red de amistades con 6 personas para alguno de los integrantes. Asegúrese de que cada persona esté conectada al menos otra personas. Representa visualmente la red social.
 
 **Ejemplo:**
@@ -12,7 +12,7 @@ Crea un grafo que represente una red de amistades con 6 personas para alguno de 
       Camila -- Carlos
 ```
 
-### Países de la OTAN y sus Fronteras
+## Países de la OTAN y sus Fronteras
 Contexto:
 La Organización del Tratado del Atlántico Norte (OTAN) es una alianza militar que incluye países de América del Norte y Europa. En este ejercicio, explorarás las relaciones geopolíticas entre algunos de los países miembros de la OTAN, específicamente analizando qué países comparten fronteras terrestres. Utilizarás SageMathCell para crear un grafo en el que cada nodo representa un país de la OTAN y cada arista indica una frontera compartida.
 
@@ -29,14 +29,14 @@ La Organización del Tratado del Atlántico Norte (OTAN) es una alianza militar 
 ¿Qué país tiene el mayor número de conexiones directas con otros países de la OTAN en este grafo? ¿Qué implica esto sobre su posición geopolítica dentro de Europa?
 ¿Cómo podrían afectar estas fronteras compartidas las políticas de defensa y las relaciones diplomáticas entre estos países?
 
-## Ejercicio de Grafos: Análisis de Distribución de Tiendas por Localidades en Bogotá
+## Análisis de Distribución de Tiendas por Localidades en Bogotá
 **Contexto:**
 Una cadena de tiendas tiene varias sucursales distribuidas en diferentes localidades de Bogotá, Colombia. La gerencia desea obtener una representación visual de la distribución de estas tiendas para analizar la cobertura de la cadena en la ciudad y planificar estrategias de expansión o reorganización.
 
 **Objetivo:**
 Crear un grafo en SageMathCell donde cada nodo representa una localidad de Bogotá y cada nodo está etiquetado con el número de tiendas que la cadena tiene en esa localidad. Además, se añadirán aristas entre localidades adyacentes para representar su proximidad geográfica.
 
-Datos:
+**Datos:**
 Supongamos que la cadena tiene tiendas en las siguientes localidades de Bogotá con el número de tiendas indicado:
 
 Chapinero: 5 tiendas
@@ -73,8 +73,7 @@ Conecta las unidades con aristas que representen sus relaciones, por ejemplo, c�
 Etiqueta cada arista con la relación de conversión apropiada.
 Visualiza el grafo para mostrar estas relaciones.
 
-
-### Organigrama Empresarial
+## Organigrama Empresarial
 **Descripción:**
 Diseña un organigrama para una pequeña empresa que incluya un CEO, dos gerentes y cuatro empleados (dos por cada gerente). Visualiza la estructura jerárquica en SageMathCell.
 
